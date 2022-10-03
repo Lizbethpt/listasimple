@@ -1,0 +1,18 @@
+C:\Users\Claudia\Documents\Septimo Semestre\ListaSimple\bin\Debug\ListaSimple.exe.config
+C:\Users\Claudia\Documents\Septimo Semestre\ListaSimple\bin\Debug\ListaSimple.exe
+C:\Users\Claudia\Documents\Septimo Semestre\ListaSimple\bin\Debug\ListaSimple.pdb
+C:\Users\Claudia\Documents\Septimo Semestre\ListaSimple\obj\Debug\ListaSimple.csprojAssemblyReference.cache
+C:\Users\Claudia\Documents\Septimo Semestre\ListaSimple\obj\Debug\ListaSimple.Form1.resources
+C:\Users\Claudia\Documents\Septimo Semestre\ListaSimple\obj\Debug\ListaSimple.Properties.Resources.resources
+C:\Users\Claudia\Documents\Septimo Semestre\ListaSimple\obj\Debug\ListaSimple.csproj.GenerateResource.cache
+C:\Users\Claudia\Documents\Septimo Semestre\ListaSimple\obj\Debug\ListaSimple.exe
+C:\Users\Claudia\Documents\Septimo Semestre\ListaSimple\obj\Debug\ListaSimple.pdb
+C:\Users\Claudia\Documents\Septimo Semestre\Estructura de Datos\ListaSimple\bin\Debug\ListaSimple.exe.config
+C:\Users\Claudia\Documents\Septimo Semestre\Estructura de Datos\ListaSimple\bin\Debug\ListaSimple.exe
+C:\Users\Claudia\Documents\Septimo Semestre\Estructura de Datos\ListaSimple\bin\Debug\ListaSimple.pdb
+C:\Users\Claudia\Documents\Septimo Semestre\Estructura de Datos\ListaSimple\obj\Debug\ListaSimple.csprojAssemblyReference.cache
+C:\Users\Claudia\Documents\Septimo Semestre\Estructura de Datos\ListaSimple\obj\Debug\ListaSimple.Form1.resources
+C:\Users\Claudia\Documents\Septimo Semestre\Estructura de Datos\ListaSimple\obj\Debug\ListaSimple.Properties.Resources.resources
+C:\Users\Claudia\Documents\Septimo Semestre\Estructura de Datos\ListaSimple\obj\Debug\ListaSimple.csproj.GenerateResource.cache
+C:\Users\Claudia\Documents\Septimo Semestre\Estructura de Datos\ListaSimple\obj\Debug\ListaSimple.exe
+C:\Users\Claudia\Documents\Septimo Semestre\Estructura de Datos\ListaSimple\obj\Debug\ListaSimple.pdb
